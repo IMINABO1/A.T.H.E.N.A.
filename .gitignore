@@ -1,0 +1,43 @@
+# Virtual Environments
+venv/
+venv311/
+env/
+ENV/
+
+# Output files
+output.txt
+output2.txt
+@*.txt
+
+# TODO file
+TODO
+
+# Environment files
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plan files
+*.plan.md
+
